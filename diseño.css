@@ -20,7 +20,7 @@
 }
 
 p{
-    display: block;
+    display: flex;
 }
 
 img{
